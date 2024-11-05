@@ -52,13 +52,15 @@ However, with so many email marketing services and tools available, it can be di
 * [Kickbox](https://kickbox.com/)
 * [Never Bounce](https://neverbounce.com)
 * [Heybounce](https://www.heybounce.io)
+* [EmailListVerify](https://www.EmailListVerify.com)
 
 ## Email Delivery Health & Reputation Monitoring Services
 
 * [IPMonitor](https://ipmonitor.app/)
 * [Postmaster+](https://www.optipub.com/postmaster-plus)
 * [Unspam](https://unspam.email/)
-
+* [WarmupInbox](https://WarmupInbox.com/)
+  
 ## Instant Blacklist Scan Tools
 
 * [MultiRBL](http://multirbl.valli.org/)
